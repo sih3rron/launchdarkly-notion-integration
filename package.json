@@ -1,0 +1,14 @@
+{
+  "name": "notion-integration",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "An integration from of LaunchDarkly Metadata to a Notion Database",
+  "main": "index.js",
+  "dependencies": {
+    "@notionhq/client": "^0.1.9",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0"
+  },
+  "author": "Simon Herron",
+  "license": "MIT"
+}
